@@ -1,8 +1,6 @@
 
 n
 >demo/src/main/java/com/bookdiscovery/demo/DemoApplication.java,f/3/f308e32f81f14a3f1a24a39e352ccdda9d039eb0
-<
-demo/pom.xml,f/1/f1bf400bc0784549511ea07030d3a798eb8c0511
 j
 :demo/src/main/java/com/bookdiscovery/demo/entity/Role.java,9/f/9f44eafc89733f5774646ce747dd25073c9c0204
 j
